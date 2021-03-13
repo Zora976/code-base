@@ -1,2 +1,2 @@
 # code-base
-Glavni repositorijum za trening
+Main Repository for training
